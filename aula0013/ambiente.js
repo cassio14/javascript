@@ -6,13 +6,13 @@ do {
 
 
 /*var C = 1
-while (c <= 12) {
-    console.log('oi')
+while (c <= 6) {
+    console.log(`Passo ${c}`)
     c++ 
 }*/
 
-
 //seguinifica que C recebe C + 1
+
 /*
 console.log('oi ')
 console.log('oi ')
